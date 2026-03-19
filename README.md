@@ -11,5 +11,8 @@ Este proyecto es una simulación visual de un sistema de transporte público des
 ## Nota
 Este sistema es únicamente visual (no incluye lógica), como se solicita en el requerimiento.
 
-## Autoras
+## Ejecución
+Ejecutar el archivo .py en Python para visualizar la interfaz gráfica.
+
+## Desarrolladoras
 Yarensi V. Guerrero A. & Alondra N. Vidal S.
